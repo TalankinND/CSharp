@@ -1,2 +1,7 @@
 # CSharp-and-MS-SQL-SERVER
-My CSharp programming projects
+English-----------------------------------------------------------------------------------------------------------------------------------
+This programm allow work with database, on MS SQL SERVER.
+For change connection string go to .../Lab1/App.config
+Russian-----------------------------------------------------------------------------------------------------------------------------------
+Данная программа позволяет работать с базой данных на MS SQL Server
+Строка подключения прописана в .../Lab1/App.config
