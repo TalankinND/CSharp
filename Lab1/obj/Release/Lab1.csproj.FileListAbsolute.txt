@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\bin\Release\Lab1.exe.config
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\bin\Release\Lab1.exe
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\bin\Release\Lab1.pdb
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.Form1.resources
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.Properties.Resources.resources
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.exe
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.pdb
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.AddRow.resources
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.Filter.resources
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.QuaeryName.resources
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.Settings.resources
+C:\Users\User\Desktop\Не програмки\Учеба\C#\Лабораторные работы\Lab1\Lab1\obj\Release\Lab1.SQL.resources
